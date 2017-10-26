@@ -3,7 +3,6 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
 title:            세균무기
 tagline:          'A Jekyll theme'
 description:      '지구별에 흔적을 남기다!'
