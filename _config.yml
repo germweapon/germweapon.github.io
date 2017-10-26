@@ -4,9 +4,9 @@ highlighter:      rouge
 
 # Setup
 title:            세균무기
-tagline:          'A Jekyll theme'
+tagline:          '세균무기가 운영하는 블로그입니다.'
 description:      '지구별에 흔적을 남기다!'
-url:              https://https://germweapon.github.io/
+url:              https://germweapon.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
