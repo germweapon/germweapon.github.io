@@ -27,7 +27,7 @@ plugins:
   - jekyll-paginate
 
 disqus:
-  shortname: my-disqus-shortname
+  shortname: germweapon
 
 # Custom vars
 version:            3.4.1
