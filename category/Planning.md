@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: Planning
 ---
 
 Another sample category page.
