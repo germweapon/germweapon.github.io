@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io/hydeout
+title:            세균무기
+tagline:          '세균무기가 운영하는 블로그입니다.'
+description:      '지구별에 흔적을 남기다!'
+url:              https://germweapon.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -14,8 +14,8 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Daniel Sekyun Yoo'
+  url:            https://twitter.com/germweapon
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -25,6 +25,9 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+
+disqus:
+  shortname: germweapon
 
 # Custom vars
 version:            3.4.1
