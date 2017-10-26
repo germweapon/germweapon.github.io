@@ -30,8 +30,6 @@ plugins:
 disqus:
   shortname: my-disqus-shortname
 
-=======
->>>>>>> ca7d7217e929e6c61cdbe062053d23327908c884
 # Custom vars
 version:            3.4.1
 sidebar_home_link:  true
