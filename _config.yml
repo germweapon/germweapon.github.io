@@ -14,7 +14,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 author:
-  name:           'Daniel Sekyun Yoo'
+  name:           'germweapon'
   url:            https://twitter.com/germweapon
 
 paginate:         5

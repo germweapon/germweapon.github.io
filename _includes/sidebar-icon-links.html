@@ -1,4 +1,23 @@
 <nav id="sidebar-icon-links">
+    <a id="blog-link"
+       class="icon" title="Blog" aria-label="Blog"
+       href="http://germweapon.tistory.com">
+      {% include svg/blog.svg %}
+    </a>
+
+    <a id="facebook-link"
+       class="icon" title="Facebook" aria-label="Facebook"
+       href="https://www.facebook.com/germweapon">
+      {% include svg/facebook.svg %}
+    </a>
+  {% endif %}
+
+    <a id="twitter-link"
+       class="icon" title="Twitter" aria-label="Twitter"
+       href="https://twitter.com/germweapon">
+      {% include svg/github.svg %}
+    </a>
+
   {% if site.github.repo %}
     <a id="github-link"
        class="icon" title="Github Project" aria-label="Github Project"
