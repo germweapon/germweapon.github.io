@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 
-안녕하세요!
+안녕하세요!<br/>
 '세균무기, 지구별에 흔적을 남기다!' 블로그를 운영하는 세균무기(germweapon)입니다.
 
 세균무기는 Web과 Mobile을 기획하는 `서비스 기획자`이자 `프로덕트 매니저(Product Manager, PM)`입니다.<br/>
