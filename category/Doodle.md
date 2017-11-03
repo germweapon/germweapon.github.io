@@ -1,9 +1,7 @@
 ---
 layout: category
-title: Doodle
-catergory : 낙서
+title: 낙서
+catergory : Doodle
 ---
 
-```
-생각의 파편을 끄적끄적 기록합니다.
-```
+`생각의 파편을 끄적끄적 기록합니다.`
