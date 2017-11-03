@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hello Hydeout
+categories:
+  - Doodle
 excerpt_separator:  <!--more-->
 ---
 
