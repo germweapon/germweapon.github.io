@@ -1,6 +1,6 @@
 ---
 layout: category
-title: 낙서
+title: Doodle
 catergory : Doodle
 ---
 
