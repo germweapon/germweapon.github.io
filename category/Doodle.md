@@ -1,6 +1,6 @@
 ---
 layout: category
-title: IT
+title: Doodle
 ---
 
 Sample category page. You need to create a page for each category.
