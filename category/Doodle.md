@@ -1,27 +1,9 @@
 ---
 layout: category
 title: Doodle
+catergory : 낙서
 ---
 
-Sample category page. You need to create a page for each category.
-The category is inferred from the title of the page, but you can also
-specify it with the `category` attribute in the front matter.
-
-```md
----
-layout: category
-title: My Category
----
 ```
-
-Or ...
-
-```md
----
-layout: category
-title: Fancy Title
-category: My Category
----
+생각의 파편을 끄적끄적 기록합니다.
 ```
-
-Posts get listed below here.
