@@ -29,6 +29,8 @@ plugins:
 disqus:
   shortname: germweapon
 
+google_analytics_id: UA-17272968-2 
+
 # Custom vars
 version:            3.4.1
 sidebar_home_link:  true
