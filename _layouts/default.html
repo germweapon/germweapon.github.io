@@ -13,7 +13,8 @@
 
     {% include custom-foot.html %}
 
-    {% if site.google-analytics include google-analytics %}
+    {% if jekyll.environment == 'production' %}
+      {% include ga.html %}
     {% endif %}
   </body>
 </html>
