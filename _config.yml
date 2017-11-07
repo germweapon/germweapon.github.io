@@ -27,7 +27,10 @@ plugins:
   - jekyll-paginate
 
 disqus:
-  shortname: germweapon 
+  shortname: germweapon
+
+google-analytics:
+  ua: 'UA-17272968-2'
 
 # Custom vars
 version:            3.4.1
