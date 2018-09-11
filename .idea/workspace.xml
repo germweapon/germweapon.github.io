@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c238f7b-4404-424c-b963-0ccd33235a6f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-09-09-기획자에게-필요한-자질은?.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-09-09-기획자에게-필요한-자질은?.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-09-09-기획자에게-필요한-자질은?.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="330">
-                <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+              <first_editor relative-caret-position="495">
+                <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -118,12 +117,12 @@
       <workItem from="1536503873425" duration="140000" />
       <workItem from="1536504544616" duration="104000" />
       <workItem from="1536589743250" duration="768000" />
-      <workItem from="1536676577899" duration="630000" />
+      <workItem from="1536676577899" duration="1928000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2494000" />
+    <option name="totallyTimeSpent" value="3792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="815" y="43" width="1615" height="1365" extended-state="0" />
@@ -312,8 +311,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-09-기획자에게-필요한-자질은?.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <first_editor relative-caret-position="495">
+            <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
           </first_editor>
           <second_editor />
         </state>
