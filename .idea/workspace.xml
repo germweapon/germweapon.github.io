@@ -17,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-10-09-망중립성과-제로레이팅.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="420">
-                <caret line="28" column="162" selection-start-line="28" selection-start-column="162" selection-end-line="28" selection-end-column="162" />
+              <first_editor relative-caret-position="390">
+                <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -168,12 +168,12 @@
       <workItem from="1538328872591" duration="843000" />
       <workItem from="1539067216014" duration="4680000" />
       <workItem from="1539074448028" duration="236000" />
-      <workItem from="1539074897387" duration="3998000" />
+      <workItem from="1539074897387" duration="4153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15350000" />
+    <option name="totallyTimeSpent" value="15505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="806" y="48" width="1753" height="1365" extended-state="0" />
@@ -615,8 +615,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-10-09-망중립성과-제로레이팅.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="28" column="162" selection-start-line="28" selection-start-column="162" selection-end-line="28" selection-end-column="162" />
+          <first_editor relative-caret-position="390">
+            <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
