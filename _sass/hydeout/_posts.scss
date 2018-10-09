@@ -26,10 +26,14 @@ article + *, .post-body ~ section {
 .post-title,
 .post-title a {
   color: $heading-color;
+  font-weight: bold;
+  font-style: normal;
 }
 .page-title,
 .post-title {
   margin-top: 0;
+  font-weight: bold;
+  font-style: normal;
 }
 
 // h1-size h2
