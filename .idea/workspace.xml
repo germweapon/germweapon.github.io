@@ -16,8 +16,8 @@
       <file leaf-file-name="_posts.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sass/hydeout/_posts.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="405">
+              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -42,8 +42,8 @@
         <option value="$PROJECT_DIR$/_posts/2018-09-20-대가(大家)가-없는-IT서비스-산업.md" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_posts/2018-09-10-수평적-조직에-대한-환상.md" />
-        <option value="$PROJECT_DIR$/_sass/hydeout/_posts.scss" />
         <option value="$PROJECT_DIR$/_posts/2018-10-09-망중립성과-제로레이팅.md" />
+        <option value="$PROJECT_DIR$/_sass/hydeout/_posts.scss" />
       </list>
     </option>
   </component>
@@ -89,6 +89,11 @@
               <item name="germweapon" type="b2602c69:ProjectViewProjectNode" />
               <item name="germweapon" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="germweapon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="germweapon" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,16 +153,15 @@
       <workItem from="1538328872591" duration="843000" />
       <workItem from="1539067216014" duration="4680000" />
       <workItem from="1539074448028" duration="236000" />
-      <workItem from="1539074897387" duration="2167000" />
+      <workItem from="1539074897387" duration="2760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13519000" />
+    <option name="totallyTimeSpent" value="14112000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1311" y="48" width="1248" height="1365" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -592,10 +596,13 @@
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/hydeout/_posts.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="405">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
         </state>
       </provider>
     </entry>
