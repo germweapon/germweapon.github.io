@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c238f7b-4404-424c-b963-0ccd33235a6f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-09-망중립성과-제로레이팅.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-09-망중립성과-제로레이팅.md" afterDir="false" />
-    </list>
+    <list default="true" id="2c238f7b-4404-424c-b963-0ccd33235a6f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +59,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="446" />
-    <option name="y" value="51" />
+    <option name="x" value="668" />
+    <option name="y" value="48" />
     <option name="width" value="1753" />
     <option name="height" value="1365" />
   </component>
@@ -172,15 +169,15 @@
       <workItem from="1539074897387" duration="4321000" />
       <workItem from="1539083152401" duration="61000" />
       <workItem from="1539083395298" duration="600000" />
-      <workItem from="1539096037880" duration="496000" />
+      <workItem from="1539096037880" duration="597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16830000" />
+    <option name="totallyTimeSpent" value="16931000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="446" y="51" width="1753" height="1365" extended-state="0" />
+    <frame x="668" y="48" width="1753" height="1365" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16942385" />
