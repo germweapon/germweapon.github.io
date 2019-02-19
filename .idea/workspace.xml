@@ -15,8 +15,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-10-09-망중립성과-제로레이팅.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="300">
-                <caret line="20" column="88" selection-start-line="20" selection-start-column="88" selection-end-line="20" selection-end-column="88" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -59,8 +59,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="668" />
-    <option name="y" value="48" />
+    <option name="x" value="577" />
+    <option name="y" value="23" />
     <option name="width" value="1753" />
     <option name="height" value="1365" />
   </component>
@@ -69,6 +69,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,7 +112,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,14 +170,15 @@
       <workItem from="1539083152401" duration="61000" />
       <workItem from="1539083395298" duration="600000" />
       <workItem from="1539096037880" duration="597000" />
+      <workItem from="1547822096780" duration="74000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16931000" />
+    <option name="totallyTimeSpent" value="17005000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="668" y="48" width="1753" height="1365" extended-state="0" />
+    <frame x="577" y="23" width="1753" height="1365" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16942385" />
@@ -616,8 +617,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-10-09-망중립성과-제로레이팅.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="20" column="88" selection-start-line="20" selection-start-column="88" selection-end-line="20" selection-end-column="88" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
