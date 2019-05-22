@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c238f7b-4404-424c-b963-0ccd33235a6f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-02-24-기획자에게-중요한-3가지-역량.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-24-나는-글을-정말-못-씁니다.md" beforeDir="false" />
-    </list>
+    <list default="true" id="2c238f7b-4404-424c-b963-0ccd33235a6f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -200,12 +197,12 @@
       <workItem from="1539083395298" duration="600000" />
       <workItem from="1539096037880" duration="597000" />
       <workItem from="1547822096780" duration="74000" />
-      <workItem from="1551011656595" duration="3624000" />
+      <workItem from="1551011656595" duration="3820000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20629000" />
+    <option name="totallyTimeSpent" value="20825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="883" y="25" width="1753" height="1365" extended-state="0" />
