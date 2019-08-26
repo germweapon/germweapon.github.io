@@ -17,7 +17,7 @@ author:
   name:           'germweapon'
   url:            https://twitter.com/germweapon
 
-paginate:         5
+paginate:         10
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
@@ -38,3 +38,6 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
 github:
   repo:             https://github.com/fongandrew/hydeout
+
+google_tag:
+          ua: GTM-WLH77FS
