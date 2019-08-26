@@ -5,6 +5,10 @@
 
   <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
 
+    {% if site.google_tag.ua %}
+    {% include gtag_body.html %}
+    {% endif %}
+
     {% include sidebar.html %}
 
     <main class="container">
@@ -15,10 +19,6 @@
 
     {% if jekyll.environment == 'production' %}
       {% include ga.html %}
-    {% endif %}
-
-    {% if site.google_tag.ua %}
-    {% include gtag_body.html %}
     {% endif %}
 
   </body>
