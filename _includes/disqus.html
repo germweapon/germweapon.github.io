@@ -1,7 +1,6 @@
 {% if site.disqus.shortname %}
    <div id="disqus_thread"></div>
   <script>
-
   /**
   *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW
   *  TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
@@ -13,12 +12,12 @@
     this.page.identifier = "{{ page.guid or page.id }}" ||
                            "{{ page.url | absolute_url }}";
   }
-  function () { // DON'T EDIT BELOW THIS LINE
+  (function loadDisqusComments() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
-  }
+})();
   </script>
   <noscript>
     Please enable JavaScript to view the
